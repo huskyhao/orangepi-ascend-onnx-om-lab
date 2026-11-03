@@ -1,3 +1,10 @@
+> **项目已迁移至统一合集**
+>
+> 后续维护与最新内容请访问：[huawei-computing-practice / orangepi-ascend-onnx-om-lab](https://github.com/huskyhao/huawei-computing-practice/tree/main/orangepi-ascend-onnx-om-lab)。
+> 本仓库归档保留已有博客链接与迁移前历史。
+
+---
+
 # Orange Pi AIpro 昇腾推理实测
 
 在 Orange Pi AIpro / Ascend310B1 / CANN 8.0.0 上完成手写数字分类模型的 ONNX → OM 转换、pyACL 推理和静态 batch 性能测试。
